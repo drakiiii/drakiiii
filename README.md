@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @drakiiii
-- 👀 I’m interested in ... maths, physics, gaming, cloud
-- 🌱 I’m currently learning ... GCP, AWS, Terraform
+- 👀 I’m interested in ... maths, physics, gaming, cloud, health, statistics, simulations
+- 🌱 I’m currently learning ... GCP, AWS, Crossplane, Terraform, Kubernetes, Python, Golang
